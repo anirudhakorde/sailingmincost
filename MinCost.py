@@ -121,8 +121,4 @@ elif t == 3:
         dest_cost.remove(min(dest_cost))
 
         source_cost.append(boat)
-
-        print(len(source_cost))
-        print(len(dest_cost))
-        print(len(cost))
     print("Total Cost: {}".format(total_cost))
