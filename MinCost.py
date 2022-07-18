@@ -1,7 +1,7 @@
 '''
 Created By: Anirudha Korde
 Date: 16/11/2019
-Modified By:
+Modified By: Anirudha Korde
 
 Description:
 There are N people in village, who wants to visit Temple outside the village.
